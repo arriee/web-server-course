@@ -19,11 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85bd21cb-0146-4634-9906-90c4ce143c9e" name="Default Changelist" comment="ready for Heroku">
+    <list default="true" id="85bd21cb-0146-4634-9906-90c4ce143c9e" name="Default Changelist" comment="few changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/utils/forecast.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/forecast.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/views/about.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/views/about.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,9 @@
       <workItem from="1598520001342" duration="1211000" />
       <workItem from="1598522906456" duration="2123000" />
       <workItem from="1598529219833" duration="3302000" />
-      <workItem from="1598605568700" duration="6459000" />
+      <workItem from="1598605568700" duration="7122000" />
+      <workItem from="1598714677794" duration="85000" />
+      <workItem from="1598826895911" duration="545000" />
     </task>
     <task id="LOCAL-00001" summary="Finished">
       <created>1598611797770</created>
@@ -97,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598621827173</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="few changes">
+      <created>1598622662259</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598622662259</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,12 +122,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Finished" />
     <MESSAGE value="ready for Heroku" />
-    <option name="LAST_COMMIT_MESSAGE" value="ready for Heroku" />
+    <MESSAGE value="few changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="few changes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598524684494">
@@ -142,10 +153,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="562" y="228" key="Github.UntrackedFilesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598538450795" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1598621871054">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1598622667867">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1598621871054" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1598622667867" />
     <state x="560" y="266" key="VcsDiffUtil.ChangesDialog" timestamp="1598620229321">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
